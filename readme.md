@@ -6,4 +6,4 @@ Clone it, build using "cargo build" or "cargo run" and have your terminal filled
 
 ## Dependencies
 - chrono
-- colored (optional, change line 31 if you wish to remove it.)
+- colored (change line 31 if you wish to remove it / not use it.)
